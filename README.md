@@ -191,4 +191,3 @@ We are severely lacking in tests.
 
 <!-- GitHub Footnotes -->
 [^1]: A slug is a searchable string that is mostly human readable, but is still unique to a user.
-# YaleWalk
