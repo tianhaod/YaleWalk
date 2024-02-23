@@ -1,12 +1,12 @@
-# WalkHome
+# YaleWalk
 
-*WalkHome* (formerly *Backup*) is a companion app to help you walk home safely. Users broadcast their walking plans to their friends, and can send precise alerts to their friends when they are in danger.
+*YaleWalk* (formerly *Backup*) is a companion app to help you walk home safely. Users broadcast their walking plans to their friends, and can send precise alerts to their friends when they are in danger.
 
 ## Usage
 
 ### Deployment
 
-*WalkHome* is deployed at <a href="https://yaleswe-backup.firebaseapp.com" target="_blank">https://yaleswe-backup.firebaseapp.com</a>
+*YaleWalk* is deployed at <a href="https://yaleswe-backup.firebaseapp.com" target="_blank">https://yaleswe-backup.firebaseapp.com</a>
 
 ### Local Build Setup
 
@@ -35,7 +35,7 @@ $ npm run test
 
 ## Tech Stack
 
-*WalkHome* is a progressive web-app ([PWA](https://web.dev/progressive-web-apps/)). This approach allows us to build a complex app with web technology, and easily develop one codebase for multiple platforms.
+*YaleWalk* is a progressive web-app ([PWA](https://web.dev/progressive-web-apps/)). This approach allows us to build a complex app with web technology, and easily develop one codebase for multiple platforms.
 
 There are two major high-level components to our stack: [Nuxt.js](https://nuxtjs.org/) for our front-end and back-end, and [Google Firebase](https://firebase.google.com/) for data persistence, user authentication, and hosting.
 
